@@ -16,6 +16,12 @@ googleAnalytics       = "" # Enable Google Analytics by entering your tracking i
 [taxonomies]
   author = "authors"
 
+# Set the cache directory for images, Step 2 from here https://gohugo.io/host-and-deploy/host-on-github-pages/
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 [pagination]
 pagerSize = 10  # Use the same number you had for paginate
 
