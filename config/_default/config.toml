@@ -1,4 +1,4 @@
-baseurl               = "https://specoding.com"
+baseurl               = "https://www.specoding.com"
 title                 = "Spec Coding"
 languageCode          = "en-us"
 # theme                 = "mainroad"
@@ -30,7 +30,7 @@ allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^npx$', '^postcss$', '^
 
 [Params]
   subtitle            = "Tony Kay's Blog on AI Engineering, HybridCloud and Container Automation" # Subtitle of your site
-  description         = "An AI Engineering, Automation, and Cloud Centric personal blog" # Description of your site
+  description         = "All things Spec Coding, Spec Driven Development, Vibers welcome!" # Description of your site
   opengraph           = true
   twitter_cards       = false
   readmore            = false # Show "Read more" button in list if true
