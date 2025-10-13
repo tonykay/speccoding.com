@@ -3,49 +3,41 @@
 
 [[main]]
   name = "Home"
-  url = ""
+  url = "home/"
   weight = -110
 
 [[main]]
-  name = "Spec Coding Tooling"
-  identifier = "Spec Coding Tooling"
-  url = "post/rich-content/"
+  name = "Spec Code Tools"
+  identifier = "Spec Code Tools"
+  # url = "post/rich-content/"
   weight = -109
 [[main]]
-  parent = "Spec Coding Tooling"
+  parent = "Spec Code Tools"
+  name = "All"
+  weight = 5
+[[main]]
+  parent = "Spec Code Tools"
+  name = "Frameworkless"
+  weight = 10
+[[main]]
+  parent = "Spec Code Tools"
   name = "spec-kit"
-  url = "post/rich-content/"
+  url = "post/spec-code-tools/spec-kit/"
+  weight = 20
 [[main]]
-  parent = "Spec Coding Tooling"
+  parent = "Spec Code Tools"
   name = "Kiro"
-  url = "post/rich-content/"
+  url = "spec-code-tools/kiro/"
 [[main]]
-  parent = "Spec Coding Tooling"
+  parent = "Spec Code Tools"
   name = "openspec"
-  url = "post/rich-content/"
+  url = "spec-code-tools/openspec/"
 
 [[main]]
   name = "Claude Code"
   identifier = "Claude Code"
-  url = "post/claude-code/"
+  url = "claude-code/"
   weight = -108
-
-
-
-# Submenus are done this way: parent -> identifier
-# [[main]]
-#   name = "Links"
-#   identifier = "Links"
-#   weight = -108
-# [[main]]
-#   parent = "Links"
-#   name = "LinkedIn"
-#   url = "https://www.linkedin.com/"
-# [[main]]
-#   parent = "Links"
-#   name = "X"
-#   url = "https://x.com/"
-
 
 [[main]]
   name = "Resources"
