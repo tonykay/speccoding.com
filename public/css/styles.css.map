@@ -1,18 +1,18 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/tok/Projects/Blogs/blog-speccoding/site-speccoding-com",
+	"sourceRoot": "/Users/tok/Dropbox/PARAL/Projects/Blogs/blog-speccoding/site-speccoding-com",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_variables.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_override.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_fonts.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_base.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_components.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_utils.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_mobile.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/themes/hugo-clarity/assets/sass/_syntax.sass",
-		"../../../../../../Projects/Blogs/blog-speccoding/site-speccoding-com/assets/sass/_custom.sass"
+		"themes/hugo-clarity/assets/sass/_variables.sass",
+		"themes/hugo-clarity/assets/sass/_override.sass",
+		"themes/hugo-clarity/assets/sass/_fonts.sass",
+		"themes/hugo-clarity/assets/sass/_base.sass",
+		"themes/hugo-clarity/assets/sass/_components.sass",
+		"themes/hugo-clarity/assets/sass/_utils.sass",
+		"themes/hugo-clarity/assets/sass/_mobile.sass",
+		"themes/hugo-clarity/assets/sass/_syntax.sass",
+		"assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"$baseURL: 'http://localhost:1313/';\n$fontsPath: '../fonts/';\n$imagesPath: '../images/';\n$iconsPath: '../icons/';\n@import 'variables';\n@import 'override';\n@import 'fonts';\n@import 'base';\n@import 'components';\n@import 'utils';\n@import 'mobile';\n@import 'syntax';\n@import 'custom';\n",
