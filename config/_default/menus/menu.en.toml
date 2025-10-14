@@ -3,7 +3,7 @@
 
 [[main]]
   name = "Home"
-  url = "home/"
+  url = "/"
   weight = -110
 
 [[main]]
@@ -27,7 +27,7 @@
 [[main]]
   parent = "Spec Code Tools"
   name = "Kiro"
-  url = "spec-code-tools/kiro/"
+  url = "/categories/kiro/"
 [[main]]
   parent = "Spec Code Tools"
   name = "openspec"
@@ -36,7 +36,7 @@
 [[main]]
   name = "Claude Code"
   identifier = "Claude Code"
-  url = "claude-code/"
+  url = "/categories/kiro/"
   weight = -108
 
 [[main]]
