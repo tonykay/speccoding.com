@@ -18,6 +18,7 @@
 [[main]]
   parent = "Spec Code Tools"
   name = "Frameworkless"
+  url = "/categories/frameworkless/"
   weight = 10
 [[main]]
   parent = "Spec Code Tools"

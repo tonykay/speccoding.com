@@ -1,20 +1,21 @@
 ---
-title: "Now you are Started with Spec"
-date: "2025-10-14"
-linktitle: spec-start-02
-slug: "getting-started-with-spec"
+title: "Getting Started with Frameworkless"
+date: "2025-10-12"
+linktitle: spec-frameworkless-home
+slug: "getting-started-with-frameworkless"
 # thumbnail: "../../images/dummy-image.png"
 thumbnail: dummy-image.png
+weight: 20
 categories:
-  - Spec Coding
-  - Kiro
+  #  - Spec Coding
+  - Frameworkless
 tags:
   - Spec Coding
   - Refactor
 ---
 
 
-# Test Page Spec Number 2 
+# Frameworkless
 
 lorem ipsum dolor sit amet consectetur adipiscing elit
 

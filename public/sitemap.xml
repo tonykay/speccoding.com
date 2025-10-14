@@ -8,10 +8,22 @@
     <loc>http://localhost:1313/post/getting-finished-with-spec/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/getting-started-with-frameworkless/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/kiro/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/refactor/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/spec-coding/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spec-coding/</loc>
@@ -26,9 +38,10 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/categories/frameworkless/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url>

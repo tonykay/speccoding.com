@@ -7,7 +7,7 @@ slug: "getting-started-with-spec"
 thumbnail: dummy-image.png
 weight: 10
 categories:
-  - [Spec Coding]
+  - Spec Coding
 tags:
   - Spec Coding
   - Refactor

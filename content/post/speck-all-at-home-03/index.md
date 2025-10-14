@@ -7,7 +7,7 @@ slug: "getting-finished-with-spec"
 thumbnail: dummy-image.png
 weight: 20
 categories:
-  - ["Spec Coding", kiro, KIRO]
+  - Spec Coding
 tags:
   - Spec Coding
   - Refactor
