@@ -7,48 +7,60 @@
   weight = -110
 
 [[main]]
-  name = "Spec Code Tools"
-  identifier = "Spec Code Tools"
-  # url = "post/rich-content/"
+  name = "Spec Tools"
+  identifier = "Spec Tools"
   weight = -109
 [[main]]
-  parent = "Spec Code Tools"
+  parent = "Spec Tools"
   name = "All"
+  url = "/categories/spec-coding/"
   weight = 5
 [[main]]
-  parent = "Spec Code Tools"
+  parent = "Spec Tools"
   name = "Frameworkless"
   url = "/categories/frameworkless/"
   weight = 10
 [[main]]
-  parent = "Spec Code Tools"
+  parent = "Spec Tools"
   name = "spec-kit"
-  url = "post/spec-code-tools/spec-kit/"
+  url = "/categories/spec-kit/"
   weight = 20
 [[main]]
-  parent = "Spec Code Tools"
+  parent = "Spec Tools"
   name = "Kiro"
   url = "/categories/kiro/"
 [[main]]
-  parent = "Spec Code Tools"
+  parent = "Spec Tools"
   name = "openspec"
   url = "spec-code-tools/openspec/"
 
 [[main]]
+  name = "Agentic Coding Tools"
+  identifier = "Agentic Coding Tools"
+  url = "/categories/agentic-coding-tools/"
+  weight = -106
+
+[[main]]
+  name = "MCP"
+  identifier = "Mode Central Protocol"
+  url = "/categories/mcp/"
+  weight = -104
+
+[[main]]
   name = "Claude Code"
   identifier = "Claude Code"
-  url = "/categories/kiro/"
-  weight = -108
+  url = "/categories/claude-code/"
+  weight = -102
 
 [[main]]
   name = "Resources"
-  url = "resources/"
-  weight = -107
+  url = "/categories/resources/"
+  weight = -100
 
 [[main]]
   name = "About"
-  url = "about/"
-  weight = -105
+  url = "/categories/about/"
+  weight = -98
 
 # [[main]]
 #   name = "Archives"
