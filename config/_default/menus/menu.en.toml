@@ -4,35 +4,43 @@
 [[main]]
   name = "Home"
   url = "/"
+  weight = -112
+
+
+[[main]]
+  name = "News"
+  url = "/categories/news/"
   weight = -110
+
 
 [[main]]
   name = "Spec Tools"
-  identifier = "Spec Tools"
-  weight = -109
-[[main]]
-  parent = "Spec Tools"
-  name = "All"
+  # identifier = "Spec Tools"
   url = "/categories/spec-coding/"
-  weight = 5
-[[main]]
-  parent = "Spec Tools"
-  name = "Frameworkless"
-  url = "/categories/frameworkless/"
-  weight = 10
-[[main]]
-  parent = "Spec Tools"
-  name = "spec-kit"
-  url = "/categories/spec-kit/"
-  weight = 20
-[[main]]
-  parent = "Spec Tools"
-  name = "Kiro"
-  url = "/categories/kiro/"
-[[main]]
-  parent = "Spec Tools"
-  name = "openspec"
-  url = "spec-code-tools/openspec/"
+  weight = -109
+# [[main]]
+#   parent = "Spec Tools"
+#   name = "All"
+#   url = "/categories/spec-coding/"
+#   weight = 5
+# [[main]]
+#   parent = "Spec Tools"
+#   name = "Frameworkless"
+#   url = "/categories/frameworkless/"
+#   weight = 10
+# [[main]]
+#   parent = "Spec Tools"
+#   name = "spec-kit"
+#   url = "/categories/spec-kit/"
+#   weight = 20
+# [[main]]
+#   parent = "Spec Tools"
+#   name = "Kiro"
+#   url = "/categories/kiro/"
+# [[main]]
+#   parent = "Spec Tools"
+#   name = "openspec"
+#   url = "spec-code-tools/openspec/"
 
 [[main]]
   name = "Agentic Coding Tools"
@@ -57,10 +65,10 @@
   url = "/categories/resources/"
   weight = -100
 
-[[main]]
-  name = "About"
-  url = "/categories/about/"
-  weight = -98
+# [[main]]
+#   name = "About"
+#   url = "/categories/about/"
+#   weight = -98
 
 # [[main]]
 #   name = "Archives"

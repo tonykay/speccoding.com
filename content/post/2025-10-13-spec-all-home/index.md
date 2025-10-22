@@ -1,22 +1,21 @@
 ---
-title: "Getting Started with Spec"
+title: "Under Construction"
 date: "2025-10-12"
-linktitle: spec-start
-slug: "getting-started-with-spec"
-# thumbnail: "../../images/dummy-image.png"
-thumbnail: dummy-image.png
+linktitle: under-construction
+slug: "under-construction"
+thumbnail: "../../images/spec-coding-under-construction.png"
 weight: 10
 categories:
   - Spec Coding
 tags:
   - Spec Coding
-  - Refactor
+  - Vibe Coding
 ---
 
 
-# Test Page Spec 
+# Coming Soon
 
-lorem ipsum dolor sit amet consectetur adipiscing elit
+Placeholder pages for SpecCoding.Com, a home for everything Spec, Spec Driven Development, 
 
 > Some initial notes I have about this and about that
 > ...

@@ -1,4 +1,5 @@
 /resources/_gen/
+/public/
 hugo.darwin
 .DS_Store
 node_modules/

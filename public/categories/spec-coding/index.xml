@@ -9,20 +9,21 @@
     <copyright>Copyright © 2025, Tony Kay and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/spec-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started with Spec</title>
-      <link>http://localhost:1313/post/getting-started-with-spec/</link>
+      <title>Under Construction</title>
+      <link>http://localhost:1313/post/under-construction/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/getting-started-with-spec/</guid>
+      <guid>http://localhost:1313/post/under-construction/</guid>
       <description>
         
           
-            &lt;h1 id=&#34;test-page-spec&#34;&gt;Test Page Spec&lt;/h1&gt;
-&lt;p&gt;lorem ipsum dolor sit amet consectetur adipiscing elit&lt;/p&gt;
+            &lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h1&gt;
+&lt;p&gt;Placeholder pages for SpecCoding.Com, a home for everything Spec, Spec Driven Development,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Some initial notes I have about this and about that
 ...
-yada yada yada&lt;/p&gt;&lt;/blockquote&gt;
+yada yada yada&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Now is the winter of our discount tent&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;apiVersion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;rbac.authorization.k8s.io/v1&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;kind&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ClusterRole&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -66,6 +67,23 @@ yada yada yada&lt;/p&gt;&lt;/blockquote&gt;
     </item>
     
     <item>
+      <title>Spec-Kit gets Todos</title>
+      <link>http://localhost:1313/post/news-spec-spec-kit-todos/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/news-spec-spec-kit-todos/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;ok&#34;&gt;Ok&lt;/h1&gt;
+&lt;p&gt;Foo&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Now you are Finished with Spec</title>
       <link>http://localhost:1313/post/getting-finished-with-spec/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
@@ -79,7 +97,8 @@ yada yada yada&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Some initial notes I have about this and about that
 ...
-yada yada yada&lt;/p&gt;&lt;/blockquote&gt;
+yada yada yada&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Now is the winter of our discount tent&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;apiVersion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;rbac.authorization.k8s.io/v1&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;kind&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ClusterRole&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -136,7 +155,8 @@ yada yada yada&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Some initial notes I have about this and about that
 ...
-yada yada yada&lt;/p&gt;&lt;/blockquote&gt;
+yada yada yada&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Now is the winter of our discount tent&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;apiVersion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;rbac.authorization.k8s.io/v1&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;kind&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ClusterRole&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
