@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/agentic-under-construction/</loc>
+    <loc>https://www.specoding.com/post/agentic-under-construction/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/mcp-under-construction/</loc>
+    <loc>https://www.specoding.com/post/mcp-under-construction/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/news-under-construction/</loc>
+    <loc>https://www.specoding.com/post/news-under-construction/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/resources-under-construction/</loc>
+    <loc>https://www.specoding.com/post/resources-under-construction/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/under-construction/</loc>
+    <loc>https://www.specoding.com/post/under-construction/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/news-spec-spec-kit-todos/</loc>
+    <loc>https://www.specoding.com/post/news-spec-spec-kit-todos/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/getting-finished-with-spec/</loc>
+    <loc>https://www.specoding.com/post/getting-finished-with-spec/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/getting-started-with-frameworkless/</loc>
+    <loc>https://www.specoding.com/post/getting-started-with-frameworkless/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/agentic-coding-tools/</loc>
+    <loc>https://www.specoding.com/post/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.specoding.com/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.specoding.com/categories/agentic-coding-tools/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/agentic-coding-tools/</loc>
+    <loc>https://www.specoding.com/tags/agentic-coding-tools/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.specoding.com/categories/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/mcp/</loc>
+    <loc>https://www.specoding.com/categories/mcp/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mcp/</loc>
+    <loc>https://www.specoding.com/tags/mcp/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/news/</loc>
+    <loc>https://www.specoding.com/categories/news/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/news/</loc>
+    <loc>https://www.specoding.com/tags/news/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://www.specoding.com/categories/resources/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/resources/</loc>
+    <loc>https://www.specoding.com/categories/spec-coding/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/spec-coding/</loc>
+    <loc>https://www.specoding.com/tags/spec-coding/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spec-coding/</loc>
+    <loc>https://www.specoding.com/tags/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.specoding.com/tags/vibe-coding/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/vibe-coding/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/kiro/</loc>
+    <loc>https://www.specoding.com/categories/kiro/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/refactor/</loc>
+    <loc>https://www.specoding.com/tags/refactor/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/spec-kit/</loc>
+    <loc>https://www.specoding.com/categories/spec-kit/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spec-kit/</loc>
+    <loc>https://www.specoding.com/tags/spec-kit/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/getting-started-with-spec/</loc>
+    <loc>https://www.specoding.com/post/getting-started-with-spec/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/frameworkless/</loc>
+    <loc>https://www.specoding.com/categories/frameworkless/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spec-code-tools/</loc>
+    <loc>https://www.specoding.com/spec-code-tools/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spec-code-tools/spec-kit/getting-started-with-spec/</loc>
+    <loc>https://www.specoding.com/spec-code-tools/spec-kit/getting-started-with-spec/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://www.specoding.com/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://www.specoding.com/series/</loc>
   </url>
 </urlset>
