@@ -3,8 +3,7 @@ title: "Now you are Started with Spec"
 date: "2025-10-14"
 linktitle: spec-start-02
 slug: "getting-started-with-spec"
-# thumbnail: "../../images/dummy-image.png"
-thumbnail: dummy-image.png
+thumbnail: "../../images/under-construction.png"
 categories:
   - Spec Coding
   - Kiro

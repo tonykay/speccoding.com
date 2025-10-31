@@ -1,22 +1,20 @@
 ---
-title: "Now you are Finished with Spec"
-date: "2025-10-14"
-linktitle: spec-finish-02
-slug: "getting-finished-with-spec"
-#thumbnail: dummy-image.png
+title: "MCP - Under Construction"
+date: "2025-10-31"
+linktitle: mcp-under-construction
+slug: mcp-under-construction
 thumbnail: "../../images/under-construction.png"
-weight: 20
+weight: 10
 categories:
-  - Spec Coding
+  - MCP
 tags:
-  - Spec Coding
-  - Refactor
+  - MCP
 ---
 
 
-# Test Page Spec Number 2 
+# Coming Soon
 
-lorem ipsum dolor sit amet consectetur adipiscing elit
+Placeholder pages for SpecCoding.Com, a home for everything Spec, Spec Driven Development, 
 
 > Some initial notes I have about this and about that
 > ...

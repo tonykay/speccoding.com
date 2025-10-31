@@ -1,6 +1,5 @@
 title                 = "Spec Coding"
 languageCode          = "en-us"
-# theme                 = "mainroad"
 theme                 = ["github.com/chipzoller/hugo-clarity"]
 disqusShortname       = "works-on-their-machines"
 googleAnalytics       = "" # Enable Google Analytics by entering your tracking id

@@ -3,8 +3,8 @@ title: "Spec-Kit gets Todos"
 date: "2025-10-14"
 linktitle: news-spec-spec-kit-todos
 slug: "news-spec-spec-kit-todos"
-# thumbnail: "../../images/dummy-image.png"
 # thumbnail: dummy-image.png
+thumbnail: "../../images/under-construction.png"
 weight: 20
 categories:
   - Spec Coding

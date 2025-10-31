@@ -1,9 +1,9 @@
 ---
-title: "Under Construction"
-date: "2025-10-12"
-linktitle: under-construction
-slug: "under-construction"
-thumbnail: "../../images/spec-coding-under-construction.png"
+title: "Spec - Under Construction"
+date: "2025-11-01"
+linktitle: spec-under-construction
+slug: "spec-under-construction"
+thumbnail: "../../images/under-construction.png"
 weight: 10
 categories:
   - Spec Coding

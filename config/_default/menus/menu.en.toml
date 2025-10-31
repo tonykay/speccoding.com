@@ -14,7 +14,7 @@
 
 
 [[main]]
-  name = "Spec Tools"
+  name = "Spec Platforms"
   # identifier = "Spec Tools"
   url = "/categories/spec-coding/"
   weight = -109
@@ -54,11 +54,11 @@
   url = "/categories/mcp/"
   weight = -104
 
-[[main]]
-  name = "Claude Code"
-  identifier = "Claude Code"
-  url = "/categories/claude-code/"
-  weight = -102
+# [[main]]
+#   name = "Claude Code"
+#   identifier = "Claude Code"
+#   url = "/categories/claude-code/"
+#   weight = -102
 
 [[main]]
   name = "Resources"

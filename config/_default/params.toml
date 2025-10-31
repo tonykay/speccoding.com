@@ -154,7 +154,6 @@ since = 2025
 # website author
 [author]
 name = "Spec Coding"
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 photo = "images/avatar.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]

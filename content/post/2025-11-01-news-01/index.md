@@ -1,22 +1,22 @@
 ---
-title: "Now you are Finished with Spec"
-date: "2025-10-14"
-linktitle: spec-finish-02
-slug: "getting-finished-with-spec"
-#thumbnail: dummy-image.png
+title: "News - Under Construction"
+date: "2025-10-31"
+linktitle: news-under-construction
+slug: news-under-construction
 thumbnail: "../../images/under-construction.png"
-weight: 20
+weight: 10
 categories:
-  - Spec Coding
+  - News
+  - Resources
 tags:
   - Spec Coding
-  - Refactor
+  - News
 ---
 
 
-# Test Page Spec Number 2 
+# Coming Soon
 
-lorem ipsum dolor sit amet consectetur adipiscing elit
+Placeholder pages for SpecCoding.Com, a home for everything Spec, Spec Driven Development, 
 
 > Some initial notes I have about this and about that
 > ...

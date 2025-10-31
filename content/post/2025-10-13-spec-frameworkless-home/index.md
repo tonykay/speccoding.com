@@ -3,8 +3,8 @@ title: "Getting Started with Frameworkless"
 date: "2025-10-12"
 linktitle: spec-frameworkless-home
 slug: "getting-started-with-frameworkless"
-# thumbnail: "../../images/dummy-image.png"
-thumbnail: dummy-image.png
+thumbnail: "../../images/under-construction.png"
+#thumbnail: dummy-image.png
 weight: 20
 categories:
   #  - Spec Coding

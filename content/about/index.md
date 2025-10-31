@@ -1,6 +1,6 @@
 ---
 title: "About SpecCoding.Com"
-date: "2025-10-14"
+date: "2025-11-01"
 linktitle: about
 slug: "about"
 categories:
@@ -10,7 +10,14 @@ categories:
 
 All things Spec Coding, Spec Driven Development, Vibers welcome!
 
+### 
+
+```python
+def foo():
+```
 
 ## Tony Kay
+
+### Lorem
 
 Lorem ...
