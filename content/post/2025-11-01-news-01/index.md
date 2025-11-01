@@ -14,7 +14,7 @@ tags:
 ---
 
 
-# Coming Soon
+# Coming Soon - news items!
 
 Placeholder pages for SpecCoding.Com, a home for everything Spec, Spec Driven Development, 
 

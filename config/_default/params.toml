@@ -153,8 +153,8 @@ since = 2025
 
 # website author
 [author]
-name = "Spec Coding"
-photo = "images/avatar.png" #include this if you would like to show the author photo on the sidebar
+name = "> /Spec Coding"
+photo = "images/sidebar-slash-spec.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.

@@ -2,98 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.specoding.com/post/agentic-under-construction/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/mcp-under-construction/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/news-under-construction/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/resources-under-construction/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/under-construction/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/news-spec-spec-kit-todos/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/getting-finished-with-spec/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/getting-started-with-frameworkless/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/post/</loc>
+    <loc>http://localhost:1313/post/spec-under-construction/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/</loc>
+    <loc>http://localhost:1313/post/agentic-under-construction/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/mcp-under-construction/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/news-under-construction/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/resources-under-construction/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/under-construction/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/news-spec-spec-kit-todos/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/getting-finished-with-spec/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/getting-started-with-frameworkless/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/agentic-coding-tools/</loc>
+    <loc>http://localhost:1313/categories/about/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/spec-coding/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spec-coding/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vibe-coding/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/agentic-coding-tools/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/tags/agentic-coding-tools/</loc>
+    <loc>http://localhost:1313/tags/agentic-coding-tools/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/</loc>
+    <loc>http://localhost:1313/categories/mcp/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/mcp/</loc>
+    <loc>http://localhost:1313/tags/mcp/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/tags/mcp/</loc>
+    <loc>http://localhost:1313/categories/news/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/tags/news/</loc>
+    <loc>http://localhost:1313/categories/resources/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/resources/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/categories/spec-coding/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/tags/spec-coding/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/tags/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/tags/vibe-coding/</loc>
-    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.specoding.com/categories/kiro/</loc>
+    <loc>http://localhost:1313/categories/kiro/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/tags/refactor/</loc>
+    <loc>http://localhost:1313/tags/refactor/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/spec-kit/</loc>
+    <loc>http://localhost:1313/categories/spec-kit/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/tags/spec-kit/</loc>
+    <loc>http://localhost:1313/tags/spec-kit/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/post/getting-started-with-spec/</loc>
+    <loc>http://localhost:1313/post/getting-started-with-spec/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/categories/frameworkless/</loc>
+    <loc>http://localhost:1313/categories/frameworkless/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/spec-code-tools/</loc>
+    <loc>http://localhost:1313/spec-code-tools/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/spec-code-tools/spec-kit/getting-started-with-spec/</loc>
+    <loc>http://localhost:1313/spec-code-tools/spec-kit/getting-started-with-spec/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.specoding.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://www.specoding.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

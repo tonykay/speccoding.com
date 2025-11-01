@@ -1,0 +1,3 @@
+.avatar, .author_header, .author-image, .portrait {
+    height: 120px; !important;/* or any desired value, try 120px, 160px, etc. */
+  }

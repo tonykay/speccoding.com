@@ -9,7 +9,7 @@ googleAnalytics       = "" # Enable Google Analytics by entering your tracking i
     name = "Spec Coding"
     bio = "Bio All things Spec Coding, Spec Driven Development, Vibers welcome!"
 #Automation with Ansible. About 2/3rds of my time is automating production cloud deployments and developing both code and training content. I also deliver Automation training globally to both Red Hat and Partner Consultants and Architects on cloud infrastructure using Ansible and on OpenShift/Kubernetes."
-    avatar = "images/avatar.png"
+    # avatar = "images/avatar.png"
 
 [taxonomies]
   author = "authors"
