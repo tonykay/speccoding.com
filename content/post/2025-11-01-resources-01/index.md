@@ -1,9 +1,9 @@
 ---
 title: "Resources - Under Construction"
-date: "2025-10-31"
+date: 2025-11-01
 linktitle: resources-under-construction
 slug: resources-under-construction
-thumbnail: "../../images/under-construction.png"
+thumbnail: ../../images/under-construction.png
 weight: 10
 categories:
   - Resources
