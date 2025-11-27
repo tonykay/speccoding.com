@@ -1,0 +1,25 @@
+<div class="post_comments">
+  {{ if .Site.Config.Services.Disqus.Shortname }}
+    {{ template "_internal/disqus.html" . }}
+  {{ end }}
+  {{ if .Site.Params.utterances }}
+    {{ partial "utterances.html" . }}
+  {{ end }}
+  {{ if .Site.Params.giscus }}
+    {{ partial "giscus.html" . }}
+  {{ end }}
+
+  {{/* Commento Comments Integration */}}
+  {{ if .Site.Params.commento.enabled }}
+  <div id="commento-section">
+    <script
+      defer
+      src="{{ .Site.Params.commento.url }}/js/commento.js"
+      data-page-id="{{ .RelPermalink }}"
+      data-css-override="{{ "/css/commento-custom.css" | absURL }}"
+      data-no-fonts="true"
+    ></script>
+    <div id="commento"></div>
+  </div>
+  {{ end }}
+</div>

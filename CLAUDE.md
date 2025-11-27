@@ -101,6 +101,21 @@ The site uses the hugo-clarity theme (https://github.com/chipzoller/hugo-clarity
 - **Page Bundles**: Content can be organized as leaf bundles with co-located assets
 - **Drafts**: Marked with `draft = true` in front matter
 
+### Comments System
+
+**Commento Integration**:
+- Comment system enabled via `config/_default/params.toml` (`commento.enabled = true`)
+- Public Commento CDN: `https://cdn.commento.io`
+- Custom styling: `static/css/commento-custom.css` (matches hugo-clarity theme)
+- Template override: `layouts/partials/comments.html`
+- Features:
+  - Multiple authentication methods: anonymous, email, social login (Google/Twitter/GitHub)
+  - Post-moderation (comments appear immediately)
+  - Threaded replies supported
+  - Page-specific comment threads via `.RelPermalink`
+  - Dark mode support matching site theme
+- Custom CSS disables Commento's default font (uses Metropolis from theme)
+
 ### Deployment
 
 **GitHub Actions Workflow** (`.github/workflows/hugo.yaml`):

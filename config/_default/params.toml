@@ -126,6 +126,11 @@ blogDir = "post"
 # giscusTheme = "dark_protanopia" # Default: dark_dimmed
 # giscusLang = "en" # Default: en
 
+# Enable or disable Commento comments (https://commento.io)
+[commento]
+enabled = true
+url = "https://cdn.commento.io"
+
 
 # Maximum number of recent posts. (default: 8)
 # numberOfRecentPosts = 8
