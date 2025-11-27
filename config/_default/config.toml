@@ -1,8 +1,11 @@
 title                 = "Spec Coding"
 languageCode          = "en-us"
 theme                 = ["github.com/chipzoller/hugo-clarity"]
-disqusShortname       = "disqus_YWibv6kNhd"
 googleAnalytics       = "" # Enable Google Analytics by entering your tracking id
+
+[services]
+  [services.disqus]
+    shortname = "disqus_YWibv6kNhd"
 
 [params]
   [params.author]
