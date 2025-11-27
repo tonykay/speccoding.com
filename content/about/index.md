@@ -6,7 +6,7 @@ slug: "about"
 categories:
   - About
 ---
-# `> /spec` SpecCoding.Com
+# SpecCoding.Com
 
 All things to do with Spec Coding, Spec Driven Development (SDD), but all you Vibers, and analogue coders are welcome too!
 

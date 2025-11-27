@@ -151,9 +151,12 @@ since = 2025
 # showRelatedInArticle = false
 # showRelatedInSidebar = false
 
+# Custom CSS files loaded after theme CSS
+customCSS = ["css/custom.css"]
+
 # website author
 [author]
-name = "> /Spec Coding"
+name = "Spec Coding"
 photo = "images/sidebar-slash-spec.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
