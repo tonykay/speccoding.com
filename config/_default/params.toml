@@ -127,8 +127,9 @@ blogDir = "post"
 # giscusLang = "en" # Default: en
 
 # Enable or disable Commento comments (https://commento.io)
+# DISABLED - Migrated to Disqus
 [commento]
-enabled = true
+enabled = false
 url = "https://cdn.commento.io"
 
 
