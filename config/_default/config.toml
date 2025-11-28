@@ -5,7 +5,7 @@ googleAnalytics       = "" # Enable Google Analytics by entering your tracking i
 
 [services]
   [services.disqus]
-    shortname = "disqus_YWibv6kNhd"
+    shortname = "www-speccoding-com"
 
 [params]
   [params.author]

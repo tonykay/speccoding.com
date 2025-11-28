@@ -6,7 +6,7 @@ copyright = "Copyright © 2025, Tony Kay and the Hugo Authors; all rights reserv
 # canonifyurls = true
 
 theme = "hugo-clarity"
-disqusShortname = ""
+disqusShortname = "www-speccoding-com"
 
 DefaultContentLanguage = "en"
 # [languages]
